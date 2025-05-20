@@ -9,7 +9,7 @@ This repository includes:
 Both scripts were originally written by ChatGPT and then tested in my local environment.
 
 ## How to use
-If you're totally new to Python and/or Reddit's API, I suggest pasting the scripts into ChatGPT 4o or Claude 3.7 Sonnet and asking them to walk you through accessing the command line on your local machine and installing Python as well as the necessary libraries. 
+If you're totally new to Python and/or Reddit's API, I suggest pasting the scripts into ChatGPT 4o or Claude 3.7 Sonnet and asking them to walk you through accessing the command line on your local machine and installing Python plus the necessary libraries. 
 
 
 
