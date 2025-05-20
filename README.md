@@ -2,7 +2,7 @@
 Dataset of Reddit posts from profession subreddits discussing AI-related topics.
 
 This repository includes:
-1. A dataset of 2,078 Reddit posts collected on 5/20/2025
+1. A dataset of 2,078 Reddit posts collected on 5/19/2025
 2. Python script I used to scrape the posts
 3. Python script I used to run a sentiment analysis on the collected posts
 
