@@ -4,9 +4,9 @@ Dataset of Reddit posts from **professional and creative subreddits** discussing
 This repository includes:
 1. A dataset of 2,078 Reddit posts collected on 5/19/2025 
 2. An updated dataset of 2,082 posts collected on 5/20/2025
-3. Python script I used to scrape the posts (scrape.py)
-4. Python script I used to run a prelimiary sentiment analysis on the collected posts using TextBlob. (**sentiment_analysis.py**)
-5. Python script I used to run (1) sentiment analysis using **cardiffnlp/twitter-roberta-base-sentiment** and (2) emotional classification **using SamLowe/roberta-base-go_emotions** (**advanced_sentiment_and_emotions.py**) 
+3. Python script for scraping posts via Reddit's API. You will need API credentials to run it. (**scrape.py**)
+4. Python script for sentiment analysis using TextBlob. (**sentiment_analysis.py**)
+5. Python script combining (1) sentiment analysis using **cardiffnlp/twitter-roberta-base-sentiment** and (2) emotional classification **using SamLowe/roberta-base-go_emotions** (**advanced_sentiment_and_emotions.py**) 
 
 All the scripts were written with help from ChatGPT and tested in my local Mac environment.
 
