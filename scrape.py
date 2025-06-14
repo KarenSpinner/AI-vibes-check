@@ -1,3 +1,6 @@
+# Reddit stronglt suggests deleting all records obtained within 48 hours to ensure no deleted user content is retained. 
+# Having copies of deleted user content is against Reddit's TOS.
+
 import praw
 import pandas as pd
 from datetime import datetime, timedelta, UTC
