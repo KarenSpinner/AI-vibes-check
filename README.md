@@ -1,5 +1,10 @@
 # AI-vibes-check
-Dataset of Reddit posts from **professional and creative subreddits** discussing AI-related topics.
+This project involved scraping Reddit posts that discussed AI and related topics for sentiment analysis. 
+All raw data was deleted immediately after analysis in keeping with Reddit's TOS.
+You may not sell raw data scraped from Reddit.
+
+See Reddit's Data API Wiki for more details on how to access and handle Reddit data via API: 
+https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki
 
 This repository includes:
 1. Python script for scraping posts via Reddit's API. You will need API credentials to run it. (**scrape.py**)
